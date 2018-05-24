@@ -876,8 +876,8 @@ vendors:
 
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
-  fancybox: //cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.pack.js
-  fancybox_css: //cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.min.css
+  fancybox: //cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.3.5/dist/jquery.fancybox.min.js
+  fancybox_css: //cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.3.5/dist/jquery.fancybox.min.css
 
   # Internal version: 1.0.6
   # See: https://github.com/ftlabs/fastclick
@@ -890,19 +890,19 @@ vendors:
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
-  velocity: //cdn.jsdelivr.net/velocity/1.2.3/velocity.min.js
+  velocity: //cdn.jsdelivr.net/npm/velocity-animate@1.5.1/velocity.min.js
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
-  velocity_ui: //cdn.jsdelivr.net/velocity/1.2.3/velocity.ui.min.js
+  velocity_ui: //cdn.jsdelivr.net/npm/velocity-animate@1.5.1/velocity.ui.min.js
 
   # Internal version: 0.7.9
   # See: https://faisalman.github.io/ua-parser-js/
-  ua_parser: //cdn.jsdelivr.net/ua-parser.js/0.7.10/ua-parser.min.js
+  ua_parser: //cdn.jsdelivr.net/npm/ua-parser-js@0.7.18/src/ua-parser.min.js
 
   # Internal version: 4.6.2
   # See: http://fontawesome.io/
-  fontawesome: //cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css
+  fontawesome: //cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css
 
   # Internal version: 1
   # https://www.algolia.com
