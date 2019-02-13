@@ -39,12 +39,12 @@
 {% endif %}
 
 {% if theme.footer.powered.enable %}
-<!-- this is for coding pages -->
+<!-- this is for Github Pages -->
   <div class="powered-by">
-    Hosted by <a href="https://pages.coding.me" target="_blank">Coding Pages</a>
+    Hosted by <a href="https://pages.github.com/" target="_blank">Github Pages</a>
   </div>
   <span class="post-meta-divider">|</span>
-<!-- this is for coding pages -->
+<!-- this is for Github Pages -->
 
   <div class="powered-by">{#
   #}{{ __('footer.powered', '<a class="theme-link" target="_blank"' + nofollow + ' href="https://hexo.io">Hexo</a>') }}{% if theme.footer.powered.version %} v{{ hexo_env('version') }}{% endif %}{#
